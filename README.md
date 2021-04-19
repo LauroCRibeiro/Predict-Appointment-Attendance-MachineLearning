@@ -1,3 +1,4 @@
+This project makes part of my CCT College Machine Learning CA2 task.
 
 # Can we predict if a patient won’t show (no show) for an appointment?
 
